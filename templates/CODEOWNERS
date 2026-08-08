@@ -1,0 +1,17 @@
+# Copy this file into a repository at .github/CODEOWNERS
+#
+# CODEOWNERS does NOT cascade from this organization-level repository — each repository
+# needs its own copy. Owners listed here are requested for review automatically, and are
+# required reviewers if "Require review from Code Owners" is on in branch protection.
+#
+# Later rules win over earlier ones. Order matters.
+
+# Default owner for everything in the repository
+*                       @avenodigital/engineering
+
+# Examples — delete or adapt
+# /src/api/             @avenodigital/backend
+# /src/web/             @avenodigital/frontend
+# /infra/               @avenodigital/engineering
+# *.tf                  @avenodigital/engineering
+# /.github/workflows/   @avenodigital/engineering
