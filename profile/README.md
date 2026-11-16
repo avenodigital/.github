@@ -17,3 +17,15 @@ around them. From first concept to production and the maintenance that follows.
 
 Open an issue in the relevant repository, or reach out through
 [avenodigital.com](https://avenodigital.com).
+
+<!-- platform-docs-link -->
+## Platform documentation
+
+This repository runs on the Aveno Digital platform. Platform knowledge —
+clusters, delivery, secrets, conventions, and the decisions behind them — is
+maintained in one place only:
+
+https://github.com/avenodigital/infrastructure/tree/main/docs/platform
+
+This README describes the repository itself and does not restate platform
+rules. Where the two disagree, the platform documentation is authoritative.
